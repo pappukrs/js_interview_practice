@@ -1,0 +1,6 @@
+
+
+Hoisting :->   Hoisting is the default beahaviour of javascript in which we can use variable and function before defining the variable and function.
+Variable declare with keyboard Var is hoisted but let and const are not hoisted.
+
+Normal function declaration is hoisted in nature but arrow functions are not.
